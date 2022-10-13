@@ -26,7 +26,7 @@ downward API.
 
 ## Use Pod fields as values for environment variables
 
-In this part of exercise, you create a Pod that has one container, and you
+In this part of the exercise, you create a Pod that has one container, and you
 project Pod-level fields into the running container as environment variables.
 
 {{< codenew file="pods/inject/dapi-envars-pod.yaml" >}}
